@@ -1,0 +1,4 @@
+Your name is: Michelle
+Your Payment choice is: EFTPOS
+Your total is: 17.5
+please pick up your order in 20m
